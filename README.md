@@ -6,8 +6,8 @@ News Portal is a template built using a Bootstrap 5.3.
 
 ## Screenshot
 
-![Screenshot-00 of the news portal.](assets/img/screenshot-00.png)
-![Screenshot-01 of the news portal.](assets/img/screenshot-01.png)
+![Screenshot-01 of the news portal.](assets/img/light.png)
+![Screenshot-02 of the news portal.](assets/img/dark.png)
 
 ## Author
 
