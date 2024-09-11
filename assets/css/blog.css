@@ -31,9 +31,24 @@ h1, h2, h3, h4, h5, h6 {
  * Blog posts
  */
 .blog-post {
-  margin-bottom: 4rem;
+  margin-bottom: 0rem;
 }
 .blog-post-meta {
   margin-bottom: 1.25rem;
   color: #727272;
+}
+
+/* Carousel base class */
+.carousel {
+  margin-bottom: 0rem;
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  bottom: 0rem;
+  z-index: 10;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel-item {
+  height: 18rem;
 }
